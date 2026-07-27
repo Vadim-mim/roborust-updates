@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "manifestUrl": "",
+  "latestVersion": "0.2.0",
+  "fullPackage": {
+    "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.2.0/full-0.2.0.zip",
+    "size": 522588237,
+    "sha256": "6728fc5b37bc0772c820a2a881f717fe4d99de72bfc9ca021b4c80a8cc682f3c"
+  },
+  "patches": [
+    {
+      "fromVersion": "0.1.0",
+      "toVersion": "0.2.0",
+      "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.2.0/patch-0.1.0-to-0.2.0.zip",
+      "size": 386224855,
+      "sha256": "29204c97033500eb9ac198ba3251d15196772fbb07a2007656e89003315e191d"
+    }
+  ],
+  "gameExecutable": "Shooter.exe",
+  "launcherVersion": "",
+  "launcherPackageUrl": ""
+}
