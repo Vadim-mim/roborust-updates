@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
+  "version": "0.3.3",
   "manifestUrl": "",
-  "latestVersion": "0.3.2",
+  "latestVersion": "0.3.3",
   "fullPackage": {
-    "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.3.2/full-0.3.2.zip",
-    "size": 522587648,
-    "sha256": "a877bda9b42e365c9678a77a20ab057544f5ad826782ec7bb4474ba9d09d7777"
+    "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.3.3/full-0.3.3.zip",
+    "size": 522570408,
+    "sha256": "afdad032ef5f31d6d741de026133deab448a1a1e00590dca784c185d4e0113b2"
   },
   "patches": [
     {
@@ -35,6 +35,13 @@
       "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.3.2/patch-0.3.1-to-0.3.2.zip",
       "size": 46192779,
       "sha256": "813a2be5dcb4c3cfcadf616aa705eb4e0841ad6b1948b1d9a5b96767bd7d3c40"
+    },
+    {
+      "fromVersion": "0.3.2",
+      "toVersion": "0.3.3",
+      "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.3.3/patch-0.3.2-to-0.3.3.zip",
+      "size": 183166,
+      "sha256": "d6275389366c7944d60f42c80d09f629429b099ba4de1b322d179b675feda412"
     }
   ],
   "gameExecutable": "Shooter.exe",
