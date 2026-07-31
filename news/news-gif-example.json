@@ -1,0 +1,13 @@
+{
+  "news": [
+    {
+      "id": "gif-example",
+      "title": "Анимированная новость",
+      "date": "31.07.2026",
+      "text": "Эта GIF проигрывается прямо внутри лаунчера. Переходить на другой сайт не нужно.",
+      "imageUrl": "https://raw.githubusercontent.com/Vadim-mim/roborust-updates/main/news/images/example-animation.gif",
+      "videoUrl": "",
+      "buttonText": ""
+    }
+  ]
+}
