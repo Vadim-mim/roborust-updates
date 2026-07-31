@@ -1,5 +1,14 @@
 {
   "news": [
+     {
+      "id": "Мина",
+      "title": "Обновление 0.4.0",
+      "date": "31.07.2026",
+      "text": "Добавлена мина, которую можно крафтить, ставить..",
+      "imageUrl": "https://raw.githubusercontent.com/Vadim-mim/roborust-updates/main/news/images/update-040.jpg",
+      "videoUrl": "https://www.youtube.com/watch?v=YOUR_VIDEO_ID",
+      "buttonText": "Смотреть трейлер"
+    },
     {
       "id": "update-0.4.0",
       "title": "Обновление 0.4.0",
