@@ -1,11 +1,11 @@
 {
-  "version": "0.3.9",
+  "version": "0.3.10",
   "manifestUrl": "",
-  "latestVersion": "0.3.9",
+  "latestVersion": "0.3.10",
   "fullPackage": {
-    "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.3.9/full-0.3.9.zip",
-    "size": 432328975,
-    "sha256": "8f64c23afedc740deacc1387ad185445abeaa8ca8c538b7e1e3c31ec9909e3fe"
+    "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.3.10/full-0.3.10.zip",
+    "size": 424432592,
+    "sha256": "48f893daa91c3dbb6bf058d4706b45980f7002d0f52e79283aea7c30188c6c59"
   },
   "patches": [
     {
@@ -84,6 +84,13 @@
       "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.3.9/patch-0.3.8-to-0.3.9.zip",
       "size": 292562746,
       "sha256": "03c4e5164a4623b5d8404a9d6abc961bca35724aa3c3ebeede5db840365f5c3f"
+    },
+    {
+      "fromVersion": "0.3.9",
+      "toVersion": "0.3.10",
+      "url": "https://github.com/Vadim-mim/roborust-updates/releases/download/v0.3.10/patch-0.3.9-to-0.3.10.zip",
+      "size": 375154046,
+      "sha256": "b28dd793141fbc96387f8973d514e6a50cf890d470635b8e3da7c8335b9fb6fc"
     }
   ],
   "gameExecutable": "Shooter.exe",
